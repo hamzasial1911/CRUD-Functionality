@@ -1,2 +1,20 @@
-# CRUD-Functionality
-This GitHub repository contains a Node.js CRUD application using MongoDB as the database. It provides basic functionality for creating, reading, updating and deleting data, making it a good starting point for building more complex apps
+
+# foldername
+
+foldername is a project that uses Express, Mongoose, and OpenAI to create a web application.
+
+## Installation
+
+To install the dependencies for this project, run: 
+```bash
+npm install 
+```
+
+## Usage 
+To start the development server, run: 
+```bash 
+npm run dev 
+```
+
+ ## License 
+This project is licensed under the ISC license.
